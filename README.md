@@ -6,9 +6,7 @@
 Aplikasi Sistem Manajemen Keuangan is a personal bookkeeping web application, built with Laravel 5.
 
 ## Crew
-Banni Pebriansyah (1167050041)
-Dheka Noerhidayah Vivaldi (1167050049)
-Muhammad Said Marzuqi (1167050107)
+Banni Pebriansyah (1167050041) || Dheka Noerhidayah Vivaldi (1167050049) || Muhammad Said Marzuqi (1167050107)
 
 ## Objective
 Easy bookkeeping for personal income and spending (amount of money).
